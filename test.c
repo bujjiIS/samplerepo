@@ -1,0 +1,5 @@
+void()
+{
+ .......;
+ printf("welcome")
+}
