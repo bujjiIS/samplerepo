@@ -7,4 +7,7 @@ void motor(){
   void tyres(){
    printf("add tyres");
   }
+  void engine(){
+   printf("add engine");
+  }
 }
